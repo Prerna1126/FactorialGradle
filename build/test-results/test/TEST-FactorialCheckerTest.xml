@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FactorialCheckerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-01-09T09:34:47" hostname="Prernas-MacBook-Pro.local" time="0.032">
+  <properties/>
+  <testcase name="factorialZero()" classname="FactorialCheckerTest" time="0.028"/>
+  <testcase name="factorialOne()" classname="FactorialCheckerTest" time="0.001"/>
+  <testcase name="factorialSix()" classname="FactorialCheckerTest" time="0.001"/>
+  <testcase name="factorialTwo()" classname="FactorialCheckerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
